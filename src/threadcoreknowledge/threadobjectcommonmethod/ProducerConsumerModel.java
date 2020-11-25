@@ -1,9 +1,7 @@
 package threadcoreknowledge.threadobjectcommonmethod;
 
-import java.util.ArrayList;
 import java.util.Date;
 import java.util.LinkedList;
-import java.util.List;
 
 /**
  * 用wait/notify来实现，不使用阻塞队列
